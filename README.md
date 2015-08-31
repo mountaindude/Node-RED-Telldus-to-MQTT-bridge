@@ -2,12 +2,12 @@
 
 ## Summary
 
-The code in this report will retrieve sensor and device data from Telldus Live, and then output that same data in a structured way to MQTT topics of your choice.
+The code in this report will retrieve sensor and device data from [Telldus Live](http://live.telldus.com/), and then output that same data in a structured way to MQTT topics of your choice.
 Devices are typically various kinds of actuators, for example radio controlled mains switches.
 
 Other applications can then subscribe to the MQTT topics, and provide for example visualizations of the sensor data, send alerts when certain conditions occur, or store the data in some kind of database.
 
-Please note that the code in this repo is intended to go inside a Node-RED function - it is *not* a Node-RED module in itself.
+Please note that the code in this repo is intended to go inside a [Node-RED](http://nodered.org/) function - it is *not* a Node-RED module in itself.
 
 
 More related information, ideas and code can be found at
