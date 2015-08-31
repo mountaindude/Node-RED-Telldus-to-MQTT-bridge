@@ -14,7 +14,7 @@ More related information, ideas and code can be found at
 [www.ptarmiganlabs.com](https://www.ptarmiganlabs.com).
 
 
-![alt text](https://www.ptarmiganlabs.com/wp-content/uploads/2014/10/cropped-sylarna_201409291.jpg "Ptarmigan Labs")
+[![alt text](https://www.ptarmiganlabs.com/wp-content/uploads/2014/10/cropped-sylarna_201409291.jpg "Ptarmigan Labs")](https://www.ptarmiganlabs.com)
 
 
 
