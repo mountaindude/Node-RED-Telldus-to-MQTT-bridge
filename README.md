@@ -46,4 +46,5 @@ The current setup is much better:
 
 
 ## References
-A lot of the Telldus related code is inspired by the test/sample code over at [TheThingSystem's Node.js module](https://github.com/TheThingSystem/node-telldus-live) for Telldus Live.
+1. A lot of the Telldus related code is inspired by the test/sample code over at [TheThingSystem's Node.js module](https://github.com/TheThingSystem/node-telldus-live) for Telldus Live.
+2. Blog post: [Using Node-RED for publishing Telldus Live data to MQTT](https://www.ptarmiganlabs.com/2015/08/31/using-node-red-for-publishing-telldus-live-data-to-mqtt/).
