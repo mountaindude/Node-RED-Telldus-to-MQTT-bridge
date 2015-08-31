@@ -11,7 +11,7 @@ Please note that the code in this repo is intended to go inside a Node-RED funct
 
 
 More related information, ideas and code can be found at
-[www.ptarmiganlabs.com](www.ptarmiganlabs.com).
+[www.ptarmiganlabs.com](https://www.ptarmiganlabs.com).
 
 
 ![alt text](https://www.ptarmiganlabs.com/wp-content/uploads/2014/10/cropped-sylarna_201409291.jpg "Ptarmigan Labs")
